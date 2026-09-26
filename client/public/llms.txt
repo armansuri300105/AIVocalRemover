@@ -1,0 +1,22 @@
+# AI Media Processor
+
+> AI audio and video processing web app for vocal removal, music extraction, and source separation.
+
+## Primary intents
+- ai vocal remover online free
+- remove vocals from song online
+- extract music from video ai
+- separate audio tracks online
+
+## Main pages
+- https://aimediaprocessor.netlify.app/
+- https://aimediaprocessor.netlify.app/ai-vocal-remover-online-free
+- https://aimediaprocessor.netlify.app/extract-music-from-video-ai
+- https://aimediaprocessor.netlify.app/separate-audio-tracks-online
+- https://aimediaprocessor.netlify.app/how-ai-vocal-remover-works
+
+## Core capabilities
+- Upload audio and extract vocals or instrumentals
+- Upload video and remove or isolate background music
+- Process supported video links and choose output formats
+- Download processed files for editing, karaoke, remix, or cleanup workflows
