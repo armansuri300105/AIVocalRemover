@@ -105,7 +105,7 @@ AudioSeparation/
 ## 📱 Mobile App (100% On-Device Neural Engine)
 
 The repository includes a complete Flutter Android app that runs vocal separation 100% offline on mobile CPUs without server dependencies:
-* **Release APK:** [`AI_Vocal_Remover_v1.0.13_UVR_MDXNET.apk`](./AI_Vocal_Remover_v1.0.13_UVR_MDXNET.apk)
+* **Release APK:** [`AI_Vocal_Remover_v1.0.13_UVR_MDXNET`](https://drive.google.com/file/d/1_4CwcJMCaBsw2D3cD4GnL7WDPvNsgQAF/view?usp=sharing)
 * **Model:** Dedicated 2-stem UVR MDX-Net ONNX (`28.33 MB`, 1.5 GFLOPs/chunk)
 * **Processing Speed:** **~35 to 50 seconds** for a full 3.5-minute song on Dimensity 6100+
 * **Peak Memory:** **< 140 MB RAM** (100% crash-proof on 4GB devices)
